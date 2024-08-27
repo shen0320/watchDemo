@@ -1,0 +1,10 @@
+<div class="container">
+    <text class="title">
+        {{ $t('strings.hello') }} {{ title }}
+    </text>
+    <div class="main">
+
+    </div>
+</div>
+
+
